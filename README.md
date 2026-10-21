@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Project Overview
+
+React Trello is a task management project built with React.
+
+## Project Highlights
+
+- React-based user interface
+- Trello-style task organization
+- Component-based application structure
+- Task management workflow
+
